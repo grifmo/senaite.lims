@@ -32,7 +32,7 @@ setup(
     keywords="",
     author="RIDING BYTES & NARALABS",
     author_email="senaite@senaite.com",
-    url="https://github.com/senaite/senaite.lims",
+    url="https://github.com/grifmo/senaite.lims",
     license="GPLv2",
     packages=find_packages("src", exclude=["ez_setup"]),
     package_dir={"": "src"},
